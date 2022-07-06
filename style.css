@@ -60,3 +60,22 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.tk-position {
+    background-color: rgb(252, 249, 249);
+    margin-top: 40px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+
+.extra-color {
+    background-color: rgb(255, 197, 175);
+    color: orangered;
+    border: 1.5px solid orangered;
+}
