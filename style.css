@@ -68,14 +68,92 @@ body {
     margin-bottom: 5px;
     margin-right: 5px;
     border-radius: 5px;
-    padding-top: 10px;
-    padding-left: 5px;
-    padding-bottom: 10px;
-    padding-right: 5px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-weight: 600;
 }
 
 .extra-color {
     background-color: rgb(255, 197, 175);
     color: orangered;
     border: 1.5px solid orangered;
+}
+
+.ammount {
+    color: rgb(187, 184, 184);
+}
+
+.ammount-line {
+    margin-left: 25%;
+    margin-right: 25%;
+    color: rgb(204, 204, 204);
+    margin-bottom: 15PX;
+}
+
+.button-again {
+    text-decoration: none;
+    padding: 5px;
+    color: #fff;
+    background-color: rgb(233, 165, 62);
+    border-radius: 5px;
+    font-weight: 700;
+    border-top: 800px;
+}
+
+.l {
+    text-align: center;
+}
+
+.donation-plan {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.icons {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icon {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-weight: 250;
+}
+
+.updates {
+    font-weight: 200;
+}
+
+.get-update {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.sinput-style {
+    border: 0;
+    padding: 0;
+}
+
+#box {
+    background-color: rgb(253, 240, 163);
+    padding-right: 50px;
+    margin-left: 150px;
+    width: 60%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.sumbmit-margin {
+    margin: -4px;
 }
