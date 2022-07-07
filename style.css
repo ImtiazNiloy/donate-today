@@ -31,6 +31,7 @@ body {
 
 .top {
     background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
     height: 80vh;
     display: flex;
     justify-content: center;
