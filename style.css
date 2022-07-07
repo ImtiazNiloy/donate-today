@@ -155,7 +155,7 @@ body {
 }
 
 .sumbmit-margin {
-    margin: -4px;
+    margin: -5px;
 }
 
 .Contact {
@@ -167,4 +167,26 @@ body {
     padding: 25px;
     margin-left: 70px;
     background-color: rgb(210, 250, 250);
+}
+
+.humble {
+    text-align: center;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.last-part {
+    background-color: black;
+    margin-top: 70px;
+    padding: 15px;
+}
+
+.happiness {
+    padding: 60px;
+    color: rgb(255, 255, 255);
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    margin-top: 25px;
+
+
 }
