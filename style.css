@@ -140,7 +140,7 @@ body {
     margin-bottom: 20px;
 }
 
-.sinput-style {
+.input-style {
     border: 0;
     padding: 0;
 }
@@ -156,4 +156,15 @@ body {
 
 .sumbmit-margin {
     margin: -4px;
+}
+
+.Contact {
+    display: flex;
+
+}
+
+.con {
+    padding: 25px;
+    margin-left: 70px;
+    background-color: rgb(210, 250, 250);
 }
